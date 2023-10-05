@@ -27,6 +27,13 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+## Personal Expense
+**1** create a personal expense report.
+**Purpose** To take a better informed decision on how to control our expense.
+
+## Project Priority Matrix
+**Purpose** How to select high value low efforts project.
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
